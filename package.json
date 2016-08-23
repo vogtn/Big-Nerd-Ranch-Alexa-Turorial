@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/vogtn/Big-Nerd-Ranch-Alexa-Turorial/issues"
   },
-  "homepage": "https://github.com/vogtn/Big-Nerd-Ranch-Alexa-Turorial#readme"
+  "homepage": "https://github.com/vogtn/Big-Nerd-Ranch-Alexa-Turorial#readme",
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "lodash": "^4.15.0",
+    "mocha": "^3.0.2",
+    "request-promise": "^4.1.1"
+  }
 }
