@@ -18,6 +18,7 @@
   "homepage": "https://github.com/vogtn/Big-Nerd-Ranch-Alexa-Turorial#readme",
   "dependencies": {
     "alexa-app": "^2.3.4",
+    "alexa-app-server": "^2.2.4",
     "chai": "^3.5.0",
     "chai-as-promised": "^5.3.0",
     "lodash": "^4.15.0",
