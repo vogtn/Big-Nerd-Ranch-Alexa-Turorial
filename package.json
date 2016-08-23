@@ -1,0 +1,19 @@
+{
+  "name": "faa-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vogtn/Big-Nerd-Ranch-Alexa-Turorial.git"
+  },
+  "author": "Nic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vogtn/Big-Nerd-Ranch-Alexa-Turorial/issues"
+  },
+  "homepage": "https://github.com/vogtn/Big-Nerd-Ranch-Alexa-Turorial#readme"
+}
